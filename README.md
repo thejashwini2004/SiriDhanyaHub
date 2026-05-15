@@ -132,12 +132,9 @@ The app uses a simple **3‑layer structure** with Jetpack Compose and MVVM‑st
 
 ### Setup & Run
 
-1. **Clone the repository**
+## 📦 Repository & APK
 
-   ```bash
-   git clone https://drive.google.com/file/d/1KYcTCtD-zxqbySi0GKtNFQzAAwjywq6c/view?usp=sharing
-   cd siri-dhanya-hub
-   ```
+- **GitHub Repository:** https://github.com/thejashwini2004/SiriDhanyaHub
 
 2. **Open in Android Studio**
 
